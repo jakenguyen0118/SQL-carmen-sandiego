@@ -22,7 +22,7 @@ bring her in.
 1.  Work through the prompts in `clues.sql`.
 1.  Make a pull request.
 
-The prompts for this exercise are available in [`lib/clues.sql`](lib/clues.sql).
+The prompts for this exercise are available in [`clues.sql`](clues.sql).
 Work through each prompt adding your SQL queries below.
 
 Make a pull request on this repository to turn your work in.
@@ -47,11 +47,11 @@ CREATE DATABASE carmen;
 # (replace /path/to/world.sql with the actual path to the file)
 ```
 
-Next, use the clues in [`lib/clues.sql`](lib/clues.sql) to create the
+Next, use the clues in [`clues.sql`](clues.sql) to create the
 appropriate SQL queries to help you find Carmen. Finally, tell us where she's
 heading!
 
-You can write your SQL queries directly in the `clues.sql` file. Then, from within the `psql` CLI just execute the file with `\i lib/clues.sql`
+You can write your SQL queries directly in the `clues.sql` file. Then, from within the `psql` CLI just execute the file with `\i clues.sql`
 
 ## Additional Resources
 
